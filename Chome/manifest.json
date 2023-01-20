@@ -1,0 +1,11 @@
+{
+    
+    "manifest_version": 1,
+    "name": "GreenCheckmark",
+    "version": "1.0.1",
+  
+    "action": {...},
+    "default_locale": "en",
+    "description": "Green Checkmark validation extention for chorome",
+    "icons": {".../checkmark-xxl.png"},
+}
